@@ -1,1 +1,1 @@
-Hello, I am **kibonoko**
+Hello, I am **kibonoko**.
